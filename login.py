@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Data login
-EMAIL = "ninggarps@gmail.com"
+EMAIL = "namaakunkamu@gmail.com"
 PASSWORD = "Creelo2001!"
 
 # Setup browser
